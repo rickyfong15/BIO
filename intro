@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Ricky Fong's Website</title>
+    </head>
+    <body>
+        <div>
+            <h1>Outdoors</h1>
+        </div>
+        <div class="main">
+            <div class="menu">
+                <h3>Menu</h3>
+                <ul>
+                    <li>Nature</li>
+                    <li>Travel</li>
+                    <li>Blogs</li>
+                    <li>Tips</li>
+                    <li>Culture</li>
+                </ul>
+            </div>
+            <div class="news">
+                <h3>News Feed</h3>
+                <ul>
+                    <li class="post">
+                        <img src="https://media-exp1.licdn.com/dms/image/C5603AQErkKhC7CNN5w/profile-displayphoto-shrink_400_400/0?e=1600905600&v=beta&t=vubHNEt_Clcor5xqC8iYTysFbSJFvlfneL9ulx-3-qI">
+                        <p><a href="https://www.linkedin.com/in/ricky-fong-2ab119177/">Ricky Fong</a><br> <br> FISHINGGGG! <br><br>
+                        Fishing is the activity of trying to catch fish. Fish are normally caught in the wild. Techniques for catching fish include hand gathering, spearing, netting, angling and trapping. “Fishing” may include catching aquatic animals other than fish, such as molluscs, cephalopods, crustaceans, and echinoderms. The term is not normally applied to catching farmed fish, or to aquatic mammals, such as whales where the term whaling is more appropriate. In addition to being caught to be eaten, fish are caught as recreational pastimes. Fishing tournaments are held, and caught fish are sometimes... <a href="https://www.linkedin.com/in/ricky-fong-2ab119177/"> read more </a></p> 
+                    </li>
+                </ul>
+                
+            </div>
+        </div>
+        <div class="footer">
+            <p>© Outdoors</p>
+        </div>
+    </body>
+</html>
