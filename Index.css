@@ -1,0 +1,90 @@
+h1 {
+    text-align: center;
+    background:#264653;
+    font-size: 60px;
+
+}
+
+.main {
+    display: flex;
+    padding: 0;    
+    background:#E9C46A;
+    
+}
+
+.menu {
+    background:#F4A261;
+    padding: 0 32px;
+    margin-right: 16px;
+    
+}
+
+.menu li {
+    display:flex;
+    list-style-type: none;
+    margin-bottom: 4px;
+    margin-right: 16px;
+
+}    
+
+.menu li:before {
+    content: "";
+    display: inline-block;
+    background-image: url(https://p7.hiclipart.com/preview/134/929/177/globe-world-earth-cartoon-clip-art-globe-images-free.jpg);
+    background-size: 100% 100%;
+    width: 16px;
+    height: 16px;
+    margin-right: 1px;
+    
+}
+
+.footer {
+    background: #264653;
+    color: #F4A261;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+div li{
+    font-family: sans-serif;
+    color:#2A9D8F;
+}
+
+div h1 {
+    color:#F4A261;
+    
+}
+div h3 {
+    font-family: "sans-serif";
+    color: #264653;
+    
+}
+
+
+body>div {
+    padding: 16px 0;
+}
+
+ul {
+    padding: 0;
+}
+
+.news .post {
+    display: flex;
+    list-style-type: none;
+    margin-bottom: 8px;
+}
+
+.news .post img {
+    width: 50px;
+    height: 50px;
+    margin-right: 30px;
+    border-radius: 50%;
+    
+}
+
+img {
+    width: 50%;
+}
+
